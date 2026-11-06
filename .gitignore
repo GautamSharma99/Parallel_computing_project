@@ -1,0 +1,15 @@
+# build outputs
+serial
+openmp
+cuda_filter
+
+# generated data (recreate with: python3 tools.py prepare / bash bench.sh)
+images/
+out/
+png/
+results.zip
+
+# local Python environment
+.venv/
+__pycache__/
+.DS_Store

@@ -99,4 +99,4 @@ Parallel_Image_Filters_Colab.ipynb   self-contained Colab notebook
 docs/           presentation notes and images
 ```
 
-**Slides:** [`docs/Parallel_Image_Edge_Detection_Slides.pdf`](docs/Parallel_Image_Edge_Detection_Slides.pdf) · Slide plan and likely viva questions: [`docs/PRESENTATION_NOTES.md`](docs/PRESENTATION_NOTES.md)
+**Report:** [`docs/Parallel_Image_Edge_Detection_Report.pdf`](docs/Parallel_Image_Edge_Detection_Report.pdf) · **Slides:** [`docs/Parallel_Image_Edge_Detection_Slides.pdf`](docs/Parallel_Image_Edge_Detection_Slides.pdf) · Slide plan and likely viva questions: [`docs/PRESENTATION_NOTES.md`](docs/PRESENTATION_NOTES.md)
